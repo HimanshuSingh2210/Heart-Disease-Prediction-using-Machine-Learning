@@ -1,7 +1,7 @@
 # Project Title: Heart Disease Prediction using Machine Learning
 
 ## Project Overview:
-I recently completed a project that aimed to predict heart disease using machine learning *(decision tree)* . The project involved training a model on a dataset of patients with heart disease, and then using the trained model to make predictions on new, unseen patients.
+I recently completed a project that aimed to predict heart disease using machine learning *#(decision tree)#* . The project involved training a model on a dataset of patients with heart disease, and then using the trained model to make predictions on new, unseen patients.
 
 ## Objective:
 The objective I set for myself was to build a model that accurately predicts heart disease in patients, based on their medical information and lifestyle factors. I trained and tested the model on a dataset of patients, and evaluated the results to determine the accuracy of the model.
